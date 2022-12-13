@@ -1,5 +1,5 @@
-# Treacherous ModAPI
-A modding API for Treacherous Trials.
+# Treacherous Modder
+A mod collection and a modding API for Treacherous Trials.
 
 ## Installation:
 ### Windows:
