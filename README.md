@@ -7,7 +7,7 @@ A modding API for Treacherous Trials.
 Run the [install.bat](install.bat) file in the game folder.
 
 #### Manual installation:
-See the [docs]().
+See the [docs](https://hassunaama.github.io/Treacherous-ModAPI/).
 
 ## macOS & Linux systems:
 soon™
