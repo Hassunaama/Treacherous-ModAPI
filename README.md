@@ -12,5 +12,8 @@ See the [docs](https://hassunaama.github.io/Treacherous-ModAPI/).
 ## macOS & Linux systems:
 soon™
 
+## Building:
+See the [docs](https://hassunaama.github.io/Treacherous-ModAPI/building).
+
 ## License:
 This project is licensed with the MIT license: [See the file](LICENSE).
