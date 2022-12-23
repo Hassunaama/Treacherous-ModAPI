@@ -1,0 +1,2 @@
+﻿* [Home](/)
+* [Building](building.md)
