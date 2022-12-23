@@ -4,7 +4,6 @@ using DiscordRPC;
 using DiscordRPC.Logging;
 
 using Treacherous_Modder.API;
-using Treacherous_Modder.Misc;
 
 namespace Treacherous_Modder
 {
