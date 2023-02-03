@@ -1,3 +1,6 @@
+## This mod has been discontinued.
+All development has been shifted to [CSTT](https://github.com/Hassunaama/CoolSpeedrunTTool).
+
 # Treacherous Modder
 A mod collection and a modding API for Treacherous Trials.
 
